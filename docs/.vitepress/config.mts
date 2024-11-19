@@ -36,7 +36,7 @@ export default defineConfig({
       {
         text: "Islamic Rulings",
         items: [
-          { text: "Is it permissible to take OSAP", link: "/rulings/fatwa" },
+          { text: "Is it permissible to take OSAP?", link: "/rulings/fatwa" },
         ],
       },
       {
