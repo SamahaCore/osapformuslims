@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "OSAP For Muslims",
   lastUpdated: true,
-  description: "Testing the features and capabilities of Vitepress",
+  description: "Informational site on how to avoid paying interest on OSAP loans",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/OSAP secondary logo.png",
