@@ -6,7 +6,7 @@ To check the amount of your provincial loan, log into your NSLSC account. Once y
 
 How to pay off provincial portion in lump sum:
 
-1. Obtain a bank draft totalling the full provincial loan amount and make it out to the National Student Loans Service Centre (NSLSC). In the “RE” line put your student loan number. (can be found in the same “Funding Summary” page)
+1. Obtain a bank draft or normal bank cheque totalling the full provincial loan amount and make it out to the National Student Loans Service Centre (NSLSC). In the “RE” line put your student loan number. (can be found in the same “Funding Summary” page)
 
 2. Write a letter in the format below and mail it to NSLSC’s office in Mississauga. Their address can be found on the “Contact Us” section of their website.
 
