@@ -10,8 +10,6 @@ How to pay off provincial portion in lump sum:
 
 2. Write a letter in the format below and mail it to NSLSC’s office in Mississauga. Their address can be found on the “Contact Us” section of their website.
 
-Note: If you are not in the grace period and still want to pay off the provincial portion lump sum, add 3-4 days of daily interest to the amount you are paying off to account for the time it will take for the cheque/draft to reach NSLSC. This will ensure that you are paying off the full amount.
-
 **Letter Format**
 
 _NSLSC full address_
