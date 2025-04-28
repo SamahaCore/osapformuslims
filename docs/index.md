@@ -4,8 +4,17 @@ This website provides Muslim students, who are receiving financial assistance fr
 
 ### Quick Links
 
-[The "Grace Period" is NOT interest-free](./terminology/grace)
-
-[Achieving a "true" grace period](./repayment/payOff) <Badge type="danger" text="Important" />
-
-[Dealing with Zakaat, Udhiya/Qurbani, Hajj/Umrah while taking OSAP](./rulings/fatwa)
+<GridLinks>
+  <GridLinkItem link="./repayment/payOff">
+    <template #badge>
+      <Badge type="danger" text="Important" style="margin:0" />
+    </template>
+    Achieving a "true" grace period
+  </GridLinkItem>
+  <GridLinkItem link="./terminology/grace">
+    The "Grace Period" is NOT interest-free
+  </GridLinkItem>
+  <GridLinkItem link="./rulings/fatwa">
+    Dealing with Zakaat, Udhiya/Qurbani, Hajj/Umrah while taking OSAP
+  </GridLinkItem>
+</GridLinks>
