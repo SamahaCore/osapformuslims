@@ -12,6 +12,10 @@ Is taking OSAP permissible? How should students navigate zakaat/sadaqatul fitr, 
 
 OSAP is a government program that finances students' tuitions. It consists of a grant (which is not paid back) and a loan (which may have to be paid back with interest).
 
+::: info Note
+As of the 2026-2027 academic year, the Ontario government has significantly changed the grant-to-loan ratio for the provincial portion of OSAP. The provincial grant is now capped at approximately 25% of assessed need (previously up to 85%), while the loan portion makes up the majority. Career college students receive 100% loans. See [Updates](/updates) for the latest policy changes.
+:::
+
 1. **Ruling of OSAP** - Under general circumstances, it will not be permissible to take the OSAP loan when paid back with interest. It will be permissible:
 
 - To opt for the grant as interest is not involved.

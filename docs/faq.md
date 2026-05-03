@@ -13,3 +13,7 @@ Answer: If you do not inform your university then they cannot inform the financi
 **3. Zaid has $10,000 in Zakatable assets. In September 2020, he applies for OSAP to pay his university tuition which is $8000. OSAP gives him $8000 from which $5000 is a grant and $3000 is a loan that is to be repaid. December 30, 2020 which corresponds to the 15th of Jumada Al Ula, 1442 is Zaid’s Zakat anniversary. On this day, Zaid has a total of $10,000 in Zakatable assets. He also has a debt of $3000 which he owes to OSAP. Will Zaid deduct this $3000 from his Zakatable assets?**
 
 Answer: If Zaid does not plan on paying off the $3000 before the next Zakat anniversary (15th of Jumada Al Ula, 1443), he will not deduct the debt. Rather, he will pay Zakat on the entire amount of his Zakatable assets. If Zaid plans on actively paying off the $3000 before the next Zakat anniversary (15th of Jumada Al Ula, 1443) he can deduct the $3000 debt from his Zakatable assets and pay Zakat on $7000 if that equates to more than the Nisab at the time.
+
+::: info Note
+The example above reflects historical OSAP grant-to-loan ratios. As of the 2026-2027 academic year, the provincial grant portion of OSAP has been significantly reduced (capped at approximately 25% of assessed need), meaning most students will now receive a much larger loan component. See [Updates](/updates) for details.
+:::
