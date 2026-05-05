@@ -20,7 +20,13 @@ There are millions of dollars in unclaimed scholarships every year. Make a sched
 
 ### Apply for OSAP grants only
 
-Did you know that you can apply for OSAP grants without taking any loans? Make sure to apply for the grant portion of OSAP. This is money provided by the government to fund your education, and it does not need to be paid back! Try to avoid taking the loan if you can. Keep applying to scholarships
+Did you know that you can apply for OSAP grants without taking any loans? Make sure to apply for the grant portion of OSAP. This is money provided by the government to fund your education, and it does not need to be paid back! Try to avoid taking the loan if you can.
+
+::: warning Important Note
+As of the 2026-2027 academic year, Ontario has significantly reduced the provincial grant portion of OSAP. The provincial grant is now capped at approximately 25% of assessed need (down from up to 85% previously), while the loan portion makes up the majority. This means the "grants only" strategy is now much less effective than before. See [Updates](/updates) for full details.
+:::
+
+Keep applying to scholarships
 
 Many students stop applying once they get accepted and end up missing out on potentially thousands of dollars in financial assistance. Apply for bursaries and other grants. Research what grants and bursaries your school offers. Always apply! The worst case scenario is that you will not receive grants, but you will have spent some time practicing application skills (which will help when applying for jobs, schools, grants later on in life), and the best case is that you will get a lot of money to pay for your education. Remember to make a consistent application schedule. Dedicating just 1 hour everyday can really go a long way!
 

@@ -2,7 +2,7 @@
 
 An informational website built with VitePress that provides guidance for Muslim students on how to avoid paying interest on OSAP (Ontario Student Assistance Program) loans while pursuing their education.
 
-## 🌟 About
+## About
 
 This project aims to help Muslim students navigate the OSAP system while adhering to Islamic principles regarding interest (riba). The website provides comprehensive information about:
 
@@ -13,7 +13,7 @@ This project aims to help Muslim students navigate the OSAP system while adherin
 - General advice for students
 - And more
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -53,7 +53,7 @@ yarn docs:dev
 - `npm run docs:build` - Build for production
 - `npm run docs:preview` - Preview production build
 
-## 🤝 Contribution Guide
+## Contribution Guide
 
 We welcome contributions from the community! Here's how you can help:
 
@@ -74,7 +74,7 @@ The site content is organized in the following directories:
 - `/docs/.vitepress` - VitePress configuration
 - `/docs/public` - Static assets
 
-## 🙏 Support
+## Support
 
 If you find this project helpful, please consider:
 
@@ -83,6 +83,6 @@ If you find this project helpful, please consider:
 - Contributing to its improvement
 - [Donating](https://www.paypal.com/donate/?hosted_button_id=NTU697EW88QFW) to support ongoing maintenance
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This website is for informational purposes only. Always consult with qualified financial and religious advisors for guidance specific to your situation.

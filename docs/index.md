@@ -4,6 +4,8 @@ This website provides Muslim students, who are receiving financial assistance fr
 
 ### Quick Links
 
+[Major OSAP Changes for 2026-2027](./updates) <Badge type="danger" text="Important" />
+
 [The "Grace Period" is NOT interest-free](./terminology/grace)
 
 [Achieving a "true" grace period](./repayment/payOff) <Badge type="danger" text="Important" />

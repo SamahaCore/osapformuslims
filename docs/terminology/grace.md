@@ -6,6 +6,10 @@ A Grace period is a 6-month period that begins after you graduate or leave schoo
 After the [changes made by the federal government](https://www.csnpe-nslsc.canada.ca/en/what-is-new#:~:text=Effective%20April%201st%2C%202023%2C%20the,loan%20before%20April%201%2C%202023.), interest will no longer be charged on the federal portion of the loan, even after the grace period.
 :::
 
+::: warning Important Update for 2026-27
+Starting with the 2026-27 academic year, the provincial portion of OSAP has shifted significantly toward loans rather than grants. This means the provincial loan balance — and therefore the amount of interest that accrues during grace periods and summer breaks — will be larger than in previous years. See [Updates](/updates) for details.
+:::
+
 ## Forgiven Interest
 
 If you return to school as a full-time student within the 6-month grace period the accrued interest will be forgiven. Many students think of the grace period as a six-month "interest-free" period that begins after graduation. This is not entirely accurate. Post secondary students taking OSAP actually go through a grace period every year without even knowing about it. Each year, a grace period is initiated on the last day of your last OSAP-funded term. For most students, this is usually the end of April when the Winter semester finishes. So, unless you are taking spring/summer courses, interest accumulates during your summer break even if you plan to return to school for the fall semester. However, when you actually return to school in September, the interest gets cleared. This is because the spring/summer term is only 4 months, which is less than the maximum grace period of 6 months. By returning to school in September, you return to the In-Study category.

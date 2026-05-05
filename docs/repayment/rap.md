@@ -1,6 +1,6 @@
 # Repayment Assistance Plan
 
-If you are at the end of your studies and you do not have enough money to pay off your loans or do not want to extend your degree/continue your education, there may still be a way to avoid interest. The government can cover some or all interest charges depending on household size and gross income. Disabilities and special cases are taken into consideration during this eligibility assessment. To learn more click [here](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019256.html).
+If you are at the end of your studies and you do not have enough money to pay off your loans or do not want to extend your degree/continue your education, there may still be a way to avoid interest. The government can cover some or all interest charges depending on household size and gross income. Disabilities and special cases are taken into consideration during this eligibility assessment. To learn more click [here](https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans/repay/assistance/rap.html).
 
 ### Monthly Gross Family Income Thresholds for Zero Payment Under RAP by Family Size
 
