@@ -2,19 +2,42 @@
 
 In order to achieve a "true" grace period of 6 months (without any interest accruing on your outstanding loan), you must pay off the entire provincial portion of your loan prior to the start of your grace period. The provincial portion of the loan is usually significantly less than the federal portion so, for some, it may be doable.
 
+## Checking the Provincial Loan Amount
+
 To check the amount of your provincial loan, log into your NSLSC account through [My Service Canada Account (MSCA)](https://www.csnpe-nslsc.canada.ca/en/home). Once you're on your dashboard, under "Funding Summary", click the link to your loan. You should see a breakdown of your loan with the interest rates.
 
 ::: info Note
 As of May 25, 2025, the NSLSC no longer uses its old standalone login. You must access your account through My Service Canada Account (MSCA) using GCKey, a Sign-in Partner (online banking), or Provincial Sign-In.
 :::
 
-How to pay off provincial portion in lump sum:
+## Paying off the Provincial Portion in Lump Sum
+
+### Method 1: Directing a Payment on the NSLSC Portal
+
+1. Make a *one-time payment* to your student loans totalling the provincial loan amount by following the on-site
+instructions for __ONE-TIME PAYMENTS__.
+
+2. Create a new *payment allocation request* by clicking through the following:
+
+    __My Account (rightmost button of menu bar) > My Requests > Create New Request__
+
+3. Select a *Directed Loan Payments* request type and enter the relevant information in the fields that follow. In the
+__Allocate Payment to:__ field, select the "Provincial Portion" option. Ensure your payment amount and date match
+those of the payment you made in step 2. Then carefully follow through the rest of the request process and submit the
+request.
+
+::: info Note
+If you made a larger payment than the provincial loan amount, instruct that it be allocated to the federal portion
+after the provincial portion is completed. 
+:::
+
+### Method 2: Manually via Mailed Cheque/Bank Draft
 
 1. Obtain a bank draft or normal bank cheque totalling the full provincial loan amount and make it out to the National Student Loans Service Centre (NSLSC). In the "RE" line put your student loan number. (can be found in the same "Funding Summary" page)
 
 2. Write a letter in the format below and mail it to NSLSC's office in Mississauga. Their address can be found on the "Contact Us" section of their website.
 
-**Letter Format**
+#### Letter Format
 
 _NS LSC full address_
 
