@@ -1,5 +1,17 @@
 # News and Updates
 
+## June 2026 Update
+
+Assalamu alaykum,
+
+The NSLSC has now allowed for payment allocation requests to be made through
+the NSLSC portal. As a result, it is no longer necessary to make a payment
+through mail with a letter requesting the payment be allocated to the
+provincial portion. The [repayment instructions](/repayment/payOff) have been
+updated to reflect this. It is now easier than ever to pay off the provincial
+loan.
+
+
 ## February 2026 Update
 
 Assalamu alaykum,
